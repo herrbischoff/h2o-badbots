@@ -43,7 +43,6 @@ Reaper
 Recorder
 Ripper
 SEOkicks-Robot
-SemrushBot
 Siphon
 SiteSucker
 Siteimprove
