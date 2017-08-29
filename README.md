@@ -4,7 +4,7 @@ Block bad robots and web crawlers from accessing your site.
 
 ## Usage
 
-The repository is structured as follow:
+The repository is structured as follows:
 
 ```
 ├── dist
