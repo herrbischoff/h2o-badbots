@@ -1,0 +1,5 @@
+mruby.handler: |
+    acl {
+        allow { addr == "127.0.0.1" }
+        deny { user_agent.match(/__REGEX__/i) }
+    }
